@@ -1,0 +1,15 @@
+.container {
+  height: 300vh;
+  width: 200vw;  
+ }
+
+h1 {
+  font-family: Arial, sans-serif;
+  font-size: 1.375em;
+  color: blue;
+}
+
+img {
+ height: 50vh;
+ width: 50vm;
+}
